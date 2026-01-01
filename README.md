@@ -33,3 +33,8 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - **Average Debt-to-Income Ratio (DTI)**  
   Evaluate the average DTI for borrowers, compute the average DTI for all loans, MTD, and track MoM fluctuations.
 
+  Summary Visualization:
+Loan Status Grid View: Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
+
+
+
