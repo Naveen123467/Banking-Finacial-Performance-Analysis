@@ -36,5 +36,7 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
   Summary Visualization:
 Loan Status Grid View: Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 
+<img width="1333" height="750" alt="Image" src="https://github.com/user-attachments/assets/7153866c-5dee-46a4-b497-5ea3ee6ba629" />
+
 
 
