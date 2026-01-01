@@ -38,5 +38,30 @@ Loan Status Grid View: Gain a comprehensive overview of lending operations and m
 
 <img width="1333" height="750" alt="Image" src="https://github.com/user-attachments/assets/7153866c-5dee-46a4-b497-5ea3ee6ba629" />
 
+##  Dashboard 2: Overview
+
+- **Monthly Trends by Issue Date (Line Chart)**  
+  Identify seasonality and long-term trends in lending activities.
+
+- **Loan Term Analysis (Donut Chart)**  
+  Understand the distribution of loans across various term lengths.
+
+- **Employee Length Analysis (Bar Chart)**  
+  Assess how lending metrics are distributed among borrowers with different employment lengths.
+
+- **Loan Purpose Breakdown (Bar Chart)**  
+  Provide a visual breakdown of loan metrics based on stated purposes of loans.
+
+- **Home Ownership Analysis (Tree Map)**  
+  View how home ownership impacts loan applications and disbursements hierarchically.
+
+
+  ## 📋 Dashboard 3: Details
+
+### Objective
+The Details Dashboard provides a comprehensive view of key loan-related metrics and data points, facilitating efficient access to critical information about loan portfolios, borrower profiles, and loan performance.
+
+
+
 
 
