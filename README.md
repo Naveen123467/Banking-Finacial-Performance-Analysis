@@ -61,6 +61,8 @@ Loan Status Grid View: Gain a comprehensive overview of lending operations and m
 ### Objective
 The Details Dashboard provides a comprehensive view of key loan-related metrics and data points, facilitating efficient access to critical information about loan portfolios, borrower profiles, and loan performance.
 
+<img width="1335" height="750" alt="Image" src="https://github.com/user-attachments/assets/a6ebc467-bb1f-4339-8e32-b0eaed658071" />
+
 
 
 
