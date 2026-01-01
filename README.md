@@ -55,7 +55,7 @@ Loan Status Grid View: Gain a comprehensive overview of lending operations and m
 - **Home Ownership Analysis (Tree Map)**  
   View how home ownership impacts loan applications and disbursements hierarchically.
 
-
+<img width="1337" height="745" alt="Image" src="https://github.com/user-attachments/assets/277a623a-fb82-4599-a0f5-9925cf9df79e" />
   ## 📋 Dashboard 3: Details
 
 ### Objective
