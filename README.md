@@ -10,11 +10,11 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - Evaluate the bank’s **financial health** using KPIs
 - Support **strategic decision-making** in credit and loan offerings
 
-#  Dash Board Link:: https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi
+**Dash Board Link:: https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi**
 
-# Dataset Link:https://github.com/Naveen123467/Bank_Finace_Project/blob/main/financial_loan.csv
+**Dataset Link:https://github.com/Naveen123467/Bank_Finace_Project/blob/main/financial_loan.csv**
 
-## 📊 Dashboard 1: Summary
+# Dashboard 1: Summary
 
 ### Key Performance Indicators (KPIs) Requirements
 
