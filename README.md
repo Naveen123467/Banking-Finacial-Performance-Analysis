@@ -10,6 +10,13 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - Evaluate the bank’s **financial health** using KPIs
 - Support **strategic decision-making** in credit and loan offerings
 
+  ##  Tools and Technologies Used
+
+- **SQL Server**: For database management and data analysis.
+- **Power BI**: For data visualization and dashboard creation.
+- **Microsoft Excel**: For initial data exploration, data cleaning, and validation.
+
+
 **Dash Board Link:: https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi**
 
 **Dataset Link:https://github.com/Naveen123467/Bank_Finace_Project/blob/main/financial_loan.csv**
@@ -56,12 +63,33 @@ Loan Status Grid View: Gain a comprehensive overview of lending operations and m
   View how home ownership impacts loan applications and disbursements hierarchically.
 
 <img width="1336" height="748" alt="Image" src="https://github.com/user-attachments/assets/5a4db462-1c0a-4266-8ce7-90bd7d7c3596" />
-  ## 📋 Dashboard 3: Details
+  ## Dashboard 3: Details
 
 ### Objective
 The Details Dashboard provides a comprehensive view of key loan-related metrics and data points, facilitating efficient access to critical information about loan portfolios, borrower profiles, and loan performance.
 
 <img width="1335" height="750" alt="Image" src="https://github.com/user-attachments/assets/a6ebc467-bb1f-4339-8e32-b0eaed658071" />
+
+## 🔍 Key Insights and Findings
+
+- **Loan Application Trends**  
+  Analyzed total loan applications, distinguishing between Month-To-Date (MTD) and Previous Month-To-Date (PMTD) applications to identify temporal trends.
+
+- **Funding and Repayment Analysis**  
+  Examined total funded amounts versus amounts received, providing insights into the bank's liquidity and loan performance.
+
+- **Interest Rate and DTI Evaluation**  
+  Assessed average interest rates and DTI ratios to understand the financial health of borrowers.
+
+- **Risk Profiling**  
+  Segmented loans into 'Good' and 'Bad' categories, offering a clear picture of the loan portfolio's risk profile.
+
+- **Demographic and Purpose-Based Analysis**  
+  Provided detailed breakdowns by loan status, purpose, state, term, and other factors to identify patterns and trends.
+
+## Conclusion
+
+This project offers valuable insights into the bank's loan portfolio, highlighting areas of strength and opportunities for improvement. It serves as a robust model for data-driven decision-making in financial services.
 
 
 
