@@ -69,8 +69,8 @@ Loan Status Grid View: Gain a comprehensive overview of lending operations and m
   View how home ownership impacts loan applications and disbursements hierarchically.
 
 <img width="1336" height="748" alt="Image" src="https://github.com/user-attachments/assets/5a4db462-1c0a-4266-8ce7-90bd7d7c3596" />
-# Dashboard 3: Details
 
+##  Dashboard 3: Details
 ### Objective
 The Details Dashboard provides a comprehensive view of key loan-related metrics and data points, facilitating efficient access to critical information about loan portfolios, borrower profiles, and loan performance.
 
