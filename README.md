@@ -33,7 +33,7 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - https://github.com/Naveen123467/Bank_Finace_Project/blob/main/Sql%20Document.SQL
 
 
-# Dashboard 1: Summary
+## Dashboard 1: Summary
 
 ### Key Performance Indicators (KPIs) Requirements
 
