@@ -1,8 +1,8 @@
-                                      BANKING FINACIAL PERFORMANCE ANALYSIS QUERY DOCUMENT
+                                      BANKING FINACIAL PERFORMANCE ANALYSIS-QUERY DOCUMENT
 
 
 	                                 BANKING FINACIAL PERFORMANCE ANALYSIS | SUMMARY
-## KPI’s:
+## Key Performance Indicators (KPIs)
 
 #Total Loan Applications
 SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
