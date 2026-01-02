@@ -21,16 +21,16 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 
 
 **Dash Board Link (Live):** <br>
-https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi
+-https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi
 
 **GitHub (Dashboard Link):** <br>
-https://github.com/Naveen123467/Bank_Finace_Project
+-https://github.com/Naveen123467/Bank_Finace_Project
 
 **Dataset Link:** <br>
-https://github.com/Naveen123467/Bank_Finace_Project/blob/main/financial_loan.csv
+-https://github.com/Naveen123467/Bank_Finace_Project/blob/main/financial_loan.csv
 
 **SQL Document Link:** <br>
-https://github.com/Naveen123467/Bank_Finace_Project/blob/main/Sql%20Document.SQL
+-https://github.com/Naveen123467/Bank_Finace_Project/blob/main/Sql%20Document.SQL
 
 
 # Dashboard 1: Summary
