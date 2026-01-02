@@ -1,6 +1,7 @@
                                             BANK LOAN REPORT QUERY DOCUMENT
+
 A.	BANK LOAN REPORT | SUMMARY
-#### KPI’s:
+# KPI’s:
 #Total Loan Applications
 SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
  
@@ -24,8 +25,6 @@ WHERE MONTH(issue_date) = 12
 SELECT SUM(loan_amount) AS Total_Funded_Amount FROM bank_loan_data
 WHERE MONTH(issue_date) = 11
  
-
-
 #Total Amount Received
 SELECT SUM(total_payment) AS Total_Amount_Collected FROM bank_loan_data
  
@@ -100,13 +99,7 @@ WHERE loan_status = 'Charged Off'
 SELECT SUM(total_payment) AS Bad_Loan_amount_received FROM bank_loan_data
 WHERE loan_status = 'Charged Off'
  
-
-
-
-
-
-
-LOAN STATUS
+#LOAN STATUS
 	SELECT
         loan_status,
         COUNT(id) AS LoanCount,
@@ -118,7 +111,6 @@ LOAN STATUS
         bank_loan_data
     GROUP BY
         loan_status
- 
 
 SELECT 
 	loan_status, 
@@ -127,21 +119,8 @@ SELECT
 FROM bank_loan_data
 WHERE MONTH(issue_date) = 12 
 GROUP BY loan_status
- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-B.	BANK LOAN REPORT | OVERVIEW
+                                                             B.	BANK LOAN REPORT | OVERVIEW
 MONTH
 SELECT 
 	MONTH(issue_date) AS Month_Munber, 
@@ -152,21 +131,9 @@ SELECT
 FROM bank_loan_data
 GROUP BY MONTH(issue_date), DATENAME(MONTH, issue_date)
 ORDER BY MONTH(issue_date)
- 
 
 
-
-
-
-
-
-
-
-
-
-
-
-STATE
+#STATE
 SELECT 
 	address_state AS State, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -177,7 +144,7 @@ GROUP BY address_state
 ORDER BY address_state
  
 
-TERM
+#TERM
 SELECT 
 	term AS Term, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -188,7 +155,7 @@ GROUP BY term
 ORDER BY term
  
 
-EMPLOYEE LENGTH
+#EMPLOYEE LENGTH
 SELECT 
 	emp_length AS Employee_Length, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -198,7 +165,7 @@ FROM bank_loan_data
 GROUP BY emp_length
 ORDER BY emp_length
  
-PURPOSE
+#PURPOSE
 SELECT 
 	purpose AS PURPOSE, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -208,8 +175,7 @@ FROM bank_loan_data
 GROUP BY purpose
 ORDER BY purpose
  
-
-HOME OWNERSHIP
+# HOME OWNERSHIP
 SELECT 
 	home_ownership AS Home_Ownership, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -219,10 +185,7 @@ FROM bank_loan_data
 GROUP BY home_ownership
 ORDER BY home_ownership
  
-
-Note: We have applied multiple Filters on all the dashboards. You can check the results for the filters as well by modifying the query and comparing the results.
-For e.g
-See the results when we hit the Grade A in the filters for dashboards.
+#See the results when we hit the Grade A in the filters for dashboards.
 SELECT 
 	purpose AS PURPOSE, 
 	COUNT(id) AS Total_Loan_Applications,
