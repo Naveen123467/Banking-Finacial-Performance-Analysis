@@ -1,7 +1,8 @@
-                                            BANK LOAN REPORT QUERY DOCUMENT
+                                      BANKING FINACIAL PERFORMANCE ANALYSIS QUERY DOCUMENT
 
-A.	BANK LOAN REPORT | SUMMARY
-# KPI’s:
+A.	 BANKING FINACIAL PERFORMANCE ANALYSIS | SUMMARY
+## KPI’s:
+
 #Total Loan Applications
 SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
  
@@ -59,7 +60,7 @@ WHERE MONTH(issue_date) = 12
 SELECT AVG(dti)*100 AS PMTD_Avg_DTI FROM bank_loan_data
 WHERE MONTH(issue_date) = 11
  
-####GOOD LOAN ISSUED
+##GOOD LOAN ISSUED
 #Good Loan Percentage
 SELECT
     (COUNT(CASE WHEN loan_status = 'Fully Paid' OR loan_status = 'Current' THEN id END) * 100.0) / 
@@ -80,7 +81,7 @@ SELECT SUM(total_payment) AS Good_Loan_amount_received FROM bank_loan_data
 WHERE loan_status = 'Fully Paid' OR loan_status = 'Current'
  
 
-####BAD LOAN ISSUED
+##BAD LOAN ISSUED
 #Bad Loan Percentage
 SELECT
     (COUNT(CASE WHEN loan_status = 'Charged Off' THEN id END) * 100.0) / 
@@ -120,7 +121,7 @@ FROM bank_loan_data
 WHERE MONTH(issue_date) = 12 
 GROUP BY loan_status
 
-                                                             B.	BANK LOAN REPORT | OVERVIEW
+                                             BANKING FINACIAL PERFORMANCE ANALYSIS | OVERVIEW
 MONTH
 SELECT 
 	MONTH(issue_date) AS Month_Munber, 
