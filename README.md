@@ -10,11 +10,14 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - Evaluate the bank’s **financial health** using KPIs
 - Support **strategic decision-making** in credit and loan offerings
 
-  # Tools and Technologies Used
+-## Skills Demonstrated
+- Banking & Financial Data Analysis
+- SQL Querying & KPI Calculation
+- DAX (MTD, MoM, Averages, Ratios)
+- Power BI Dashboard Design
+- Data Cleaning & Validation
+- Business Insights & Risk Analysis
 
-- **SQL Server**: For database management and data analysis.
-- **Power BI**: For data visualization and dashboard creation.
-- **Microsoft Excel**: For initial data exploration, data cleaning, and validation.
 
 
 **Dash Board Link(Live): https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi**<br>
