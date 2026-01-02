@@ -17,10 +17,12 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - **Microsoft Excel**: For initial data exploration, data cleaning, and validation.
 
 
-**Dash Board Link:: https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi**
-
+**Dash Board Link(Live): https://app.powerbi.com/groups/me/reports/92a4112b-6e36-43c0-8ef5-6e8d4658a25b/f2c088c55cd26278bdc3?experience=power-bi**
+**Git Hub(Dash Board Link):https://github.com/Naveen123467/Bank_Finace_Project/blob/main/Powebi.pbix**
 **Dataset Link:https://github.com/Naveen123467/Bank_Finace_Project/blob/main/financial_loan.csv**
 **Sql Document Link:https://github.com/Naveen123467/Bank_Finace_Project/blob/main/Sql%20Document.SQL**
+
+
 
 # Dashboard 1: Summary
 
@@ -71,7 +73,7 @@ The Details Dashboard provides a comprehensive view of key loan-related metrics 
 
 <img width="1335" height="750" alt="Image" src="https://github.com/user-attachments/assets/a6ebc467-bb1f-4339-8e32-b0eaed658071" />
 
-## 🔍 Key Insights and Findings
+##  Key Insights and Findings
 
 - **Loan Application Trends**  
   Analyzed total loan applications, distinguishing between Month-To-Date (MTD) and Previous Month-To-Date (PMTD) applications to identify temporal trends.
