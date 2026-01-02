@@ -1,6 +1,7 @@
                                       BANKING FINACIAL PERFORMANCE ANALYSIS QUERY DOCUMENT
 
-A.	 BANKING FINACIAL PERFORMANCE ANALYSIS | SUMMARY
+
+	                                 BANKING FINACIAL PERFORMANCE ANALYSIS | SUMMARY
 ## KPI’s:
 
 #Total Loan Applications
@@ -122,7 +123,7 @@ WHERE MONTH(issue_date) = 12
 GROUP BY loan_status
 
                                              BANKING FINACIAL PERFORMANCE ANALYSIS | OVERVIEW
-MONTH
+#MONTH
 SELECT 
 	MONTH(issue_date) AS Month_Munber, 
 	DATENAME(MONTH, issue_date) AS Month_name, 
@@ -176,7 +177,7 @@ FROM bank_loan_data
 GROUP BY purpose
 ORDER BY purpose
  
-# HOME OWNERSHIP
+#HOME OWNERSHIP
 SELECT 
 	home_ownership AS Home_Ownership, 
 	COUNT(id) AS Total_Loan_Applications,
