@@ -1,5 +1,5 @@
-## Bank_Finace_Project
-#  Project Overview
+# Project : Banking Finacial Performance Analysis  
+# Project Overview
 This project focuses on analyzing bank loan data to uncover lending trends, borrower behavior, regional patterns, and overall loan performance. The analysis distinguishes between **Good Loans** and **Bad Loans**, helping banks make **data-driven decisions** for loan approvals and risk management.
 
 The project demonstrates **end-to-end data analytics**, starting from SQL-based data analysis to interactive Power BI dashboards.
@@ -10,7 +10,7 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - Evaluate the bank’s **financial health** using KPIs
 - Support **strategic decision-making** in credit and loan offerings
 
-  ##  Tools and Technologies Used
+  # Tools and Technologies Used
 
 - **SQL Server**: For database management and data analysis.
 - **Power BI**: For data visualization and dashboard creation.
