@@ -10,7 +10,7 @@ The project demonstrates **end-to-end data analytics**, starting from SQL-based 
 - Evaluate the bank’s **financial health** using KPIs
 - Support **strategic decision-making** in credit and loan offerings
 
--## Skills Demonstrated
+ # Skills Demonstrated
 - Banking & Financial Data Analysis
 - SQL Querying & KPI Calculation
 - DAX (MTD, MoM, Averages, Ratios)
